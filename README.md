@@ -1,5 +1,5 @@
 # Collection-Of-Recipes
-Code challenge to create a web app to organize data of recipes
+Code challenge to create a web app to organize and manage collection of recipes
 
 **Created By**  
 	Thakshene (Dakshi)
