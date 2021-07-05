@@ -7,29 +7,52 @@ Code challenge to create a web app to organize and manage collection of recipes
 **Objective**  
 To create an organizer to collect and manage variety of recipes and display them with required information by adding them with the ability to delete them when necessary.
 
-**Software**  
-•	HTML5    
-•	CSS, Bootstrap 4.0    
-•	JavaScript (ES6)
+**Frond-end Languages**  
+• HTML5    
+• CSS  
+• JavaScript (ES6)
+
+**Framework**  
+• Bootstrap 4.0    
+
+**Library**  
+• Jquery
+
+**Hosting Service**   
+• GitHub
+
+**Version Control System**  
+• Git
+
+**Code editor**   
+• Visual Studio Code
 
 **Database**  
-Local database 
+• Local database 
 
 **Browser**  
-Designed and Tested in Google Chrome
+• Designed and Tested in Google Chrome
 
-**Installation**
+**Steps to publish GitHub Pages of the app**  
+Step 1: Create a Github repository and clone it in the local machine.
 
-Download pages from github repo.
+Step 2: Write code in VS editor and add files to the staging environment and commit the code.
 
-Start from index.html in the root folder.
+Step 3: Push the changes to GitHub.
+
+Step 4: Publish the app to GitHub pages.
+
+**Installation**  
+• Download pages from GitHub repository.
+
+• Start from index.html in the root folder.
 
 **Functionalities**
 1. Add Recipe
 2. Delete Recipe
 4. Views of the recipe is displayed using Bootstrap Card layout. 
 
-Add recipe form is designed using Bootstrap modal view and validations are done using Javascripts.
+Add recipe form is designed using Bootstrap modal view and add and delete functions are done using Javascripts.
 
 All the Recipes are stored in the Local Database.
 
