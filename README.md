@@ -18,13 +18,13 @@ To create an organizer to collect and manage variety of recipes and display them
 **Library**  
 • Jquery
 
-**Hosting Service** 
+**Hosting Service**   
 • GitHub
 
-**Version Control System** 
+**Version Control System**  
 • Git
 
-**Code editor** 
+**Code editor**   
 • Visual Studio Code
 
 **Database**  
@@ -33,7 +33,7 @@ To create an organizer to collect and manage variety of recipes and display them
 **Browser**  
 • Designed and Tested in Google Chrome
 
-**Steps to publish GitHub Pages of the app**
+**Steps to publish GitHub Pages of the app**  
 Step 1: Create a Github repository and clone it in the local machine.
 
 Step 2: Write code in VS editor and add files to the staging environment and commit the code.
@@ -43,7 +43,8 @@ Step 3: Push the changes to GitHub.
 Step 4: Publish the app to GitHub pages.
 
 **Installation**  
-• Download pages from GitHub repository.  
+• Download pages from GitHub repository.
+
 • Start from index.html in the root folder.
 
 **Functionalities**
