@@ -9,7 +9,7 @@ To create an organizer to collect and manage variety of recipes and display them
 
 **Frond-end Languages**  
 • HTML5    
-• CSS
+• CSS  
 • JavaScript (ES6)
 
 **Framework**  
@@ -42,8 +42,8 @@ Step 3: Push the changes to GitHub.
 
 Step 4: Publish the app to GitHub pages.
 
-**Installation**
-• Download pages from GitHub repository.
+**Installation**  
+• Download pages from GitHub repository.  
 • Start from index.html in the root folder.
 
 **Functionalities**
